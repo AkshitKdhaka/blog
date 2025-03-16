@@ -9,15 +9,15 @@ export function Hero() {
   const slides = [
     {
       id: 1,
-      background: "bg-[url('/placeholder.svg?height=600&width=1200')]",
+      background: "bg-[url('/blog1.jpg?height=600&width=1200')]",
     },
     {
       id: 2,
-      background: "bg-[url('/placeholder.svg?height=600&width=1200&text=Slide+2')]",
+      background: "bg-[url('/blog2.jpg?height=600&width=1200&text=Slide+2')]",
     },
     {
       id: 3,
-      background: "bg-[url('/placeholder.svg?height=600&width=1200&text=Slide+3')]",
+      background: "bg-[url('/blog3.webp?height=600&width=1200&text=Slide+3')]",
     },
   ]
 

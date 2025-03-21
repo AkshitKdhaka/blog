@@ -19,7 +19,6 @@ const config: Config = {
     extend: {
       colors: {
         primary: "#EF4F5F",
-        secondary: "#02060C",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
